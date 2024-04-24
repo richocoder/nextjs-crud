@@ -1,5 +1,5 @@
 Selamat datang di proyek nextjs-crud! 
-ini menggunakan API dari ttps://jsonplaceholder.typicode.com
+ini menggunakan API dari https://jsonplaceholder.typicode.com
 
 ## Cara Menjalankan Proyek
 
