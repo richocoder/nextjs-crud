@@ -15,7 +15,7 @@ import Swal from 'sweetalert2';
 import DialogForm from 'src/views/posts/Form';
 
 
-const Customer = () => {
+const Post = () => {
   const [listData, setListData] = useState<any[]>([])
   const [isReload, setIsReload] = useState<boolean>(true)
   const [isOpenForm, setIsOpenForm] = useState<boolean>(false);
@@ -202,4 +202,4 @@ const Customer = () => {
   )
 }
 
-export default Customer
+export default Post
